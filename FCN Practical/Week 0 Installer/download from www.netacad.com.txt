@@ -1,0 +1,3 @@
+Please login to http://www.netacad.com to download the latest packet tracer. 
+It's located at "Resources" --> "Packet Tracer Resources" --> choose the link "Packet
+Tracer Download Page" and choose Operating System (OS or MAC or mobile) and 32 or 64 bits. 

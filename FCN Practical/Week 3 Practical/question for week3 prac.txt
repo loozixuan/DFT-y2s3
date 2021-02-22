@@ -1,0 +1,12 @@
+- For the connection between router1 and switch, why we use fibre optic in this case 
+   instead of using the straight-through cable? / 
+- in what situation we need to use fiber optic to connect router and switch
+
+- For this practical, why we using straight-through cable to connect wireless router to pc?
+In what situation we can use straight-through cable to connect wireless router to pc
+since router to pc is in same category
+
+Miss why the connection between router and pc is using straight-through cable?
+Not using cross-over cable since both are in same category?
+
+Are we encouraged to use old version device like switch 2950 in assignment?

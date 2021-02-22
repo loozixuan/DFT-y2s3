@@ -1,0 +1,10 @@
+
+0.0.0.1 Lab - Initializing and Reloading a Router and Switch
+
+Note to Intructors:
+
+1. If your lab has equipment(router and switchtes),connect the devices and follow the intructions in this doucument.
+
+2. If your lab do not have equipment(router and switchtes), you can use packet tracer to model the topology and follow the intsructions in this document from page 2, Step 2.
+
+3. Please distribute the packet tracer installer(Cisco Packet Tracer 6.3 for Windows (with tutorials) - Student version) to students. If the packet tracer exercises cannot be completed in the class, student can continue at home.
