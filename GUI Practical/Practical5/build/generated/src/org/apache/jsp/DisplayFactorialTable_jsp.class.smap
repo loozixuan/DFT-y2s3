@@ -1,0 +1,18 @@
+SMAP
+DisplayFactorialTable_jsp.java
+JSP
+*S JSP
+*F
++ 0 DisplayFactorialTable.jsp
+DisplayFactorialTable.jsp
+*L
+5,25:52
+30:77,3
+31:80
+32,2:81,3
+34:87
+35:88,3
+36,3:91
+38,8:10
+45,4:94
+*E
