@@ -1,5 +1,8 @@
+# DFT/DIA Year 2 Semester 3 #
 
-# DFT Year 2 Semester 3 (Revision Purpose) #
+**Revision purpose**
+
+> Notes: Some of the tutorial and practical answers might not be accurate. Do approach tutor for a more accurate solution
 
 1. AACS2034 - Fundamental of Network
    - Tutorial
